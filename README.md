@@ -1,26 +1,67 @@
-## Velat
+# Velat Isik
 
-Business Informatics background. I do market and lead research for the German-speaking (DACH) market and turn the results into clean Excel and Power BI reports.
+Business Informatics student building reliable data products, automation, and
+decision-ready dashboards. I work across the full path from data collection and
+validation to analysis, reporting, and interactive presentation.
 
-Native German speaker with an EU/Dutch passport — handy for Dutch and EU companies that want to sell into Germany.
+I am currently looking for a working-student role from **November 2026** in
+data and business intelligence, digitalization, automation, business analysis,
+or IT project environments.
 
-Live portfolio: **https://vxx2207.github.io**
+## Featured projects
 
-### What I work on
-- Market and competitor research (DACH), done in German
-- B2B lead lists — cleaned, verified and scored
-- Data cleaning and reporting in Excel / Power BI
+### [IngoShift — Regional Transformation Intelligence](https://github.com/vxx2207/ingoshift)
 
-### Projects
-- [Personal site + interactive platform](https://vxx2207.github.io/) — a small web app with a competitor explorer, pricing simulator, keyword finder and lead scorer
-- [DACH market-entry case study](https://github.com/vxx2207/dach-market-entry-case-study) — a full analysis from raw data to a final recommendation (Java, Excel/Power BI, dashboard, report)
-- [Lead intelligence engine](https://github.com/vxx2207/lead-intelligence-engine) — a Java tool that cleans, scores and segments B2B leads
-- [E-commerce portfolio](https://github.com/vxx2207/dach-ecommerce-portfolio) — three smaller samples
+Reproducible Python and SQL data platform for economic transformation signals
+in Ingolstadt and Region 10. It combines source ingestion, immutable raw data,
+quality gates, lineage, analytical marts, exports, reports, and a bilingual
+dashboard. The project includes 207 automated tests and a multi-platform CI
+pipeline.
 
-### Tools
-Excel / Google Sheets, Power BI, Tableau, Java. Currently learning SQL and Python.
+**[Live documentation and dashboard](https://vxx2207.github.io/ingoshift/)**
 
-### Contact
-[Upwork](https://www.upwork.com/freelancers/~01d3a3a6694db48bde) · github.com/vxx2207
+### [Ingolstadt Mobility Intelligence](https://github.com/vxx2207/ingolstadt-mobility-intelligence)
 
-All projects here use sample data, clearly labeled.
+Open-data mobility analytics with a DuckDB star schema, rolling-origin demand
+forecasting, documented data quality, and an interactive dashboard.
+
+### [DACH Market-Entry Case Study](https://github.com/vxx2207/dach-market-entry-case-study)
+
+End-to-end market-entry analysis from structured data preparation to an Excel
+and Power BI dashboard, written report, and final business recommendation.
+
+### [Lead Intelligence Engine](https://github.com/vxx2207/lead-intelligence-engine)
+
+Configurable Java application that cleans, validates, scores, and segments B2B
+lead data using transparent business rules.
+
+### Life OS — private project
+
+Local-first Electron/PWA for personal planning and journaling with encrypted
+local storage, backup and restore, offline operation, and automated security,
+interaction, persistence, accessibility, and visual checks. The source remains
+private by design; an anonymized demonstration can be provided on request.
+
+## Technical toolkit
+
+- **Data and analytics:** Python, SQL, SQLite, DuckDB, Excel, Power BI, Tableau
+- **Software and web:** Java, JavaScript, HTML, CSS, Electron
+- **Engineering:** Git, GitHub Actions, pytest, Ruff, mypy, MkDocs, CI/CD,
+  data-quality checks and reproducible pipelines
+- **Business:** DACH market and competitor research, requirements analysis,
+  structured reporting and decision support
+
+## More work
+
+- [Personal portfolio and interactive DACH platform](https://vxx2207.github.io/)
+- [DACH e-commerce portfolio](https://github.com/vxx2207/dach-ecommerce-portfolio)
+
+Native German speaker with EU work authorization and experience translating
+business questions into structured, verifiable technical solutions.
+
+## Contact
+
+[Upwork](https://www.upwork.com/freelancers/~01d3a3a6694db48bde)
+
+Public portfolio projects use sample, synthetic, fixture, or open data and
+label the respective data class clearly.
