@@ -20,6 +20,15 @@ pipeline.
 
 **[Live documentation and dashboard](https://vxx2207.github.io/ingoshift/)**
 
+### [VlotNL — Dutch A0–B1 Learning App](https://github.com/vxx2207/vlotnl)
+
+Local-first TypeScript learning app with 75 structured lessons, 4,500
+flashcards, adaptive spaced repetition, skill-specific practice, and an
+independent NT2 Programma I training mode. Quality and security checks run
+automatically on GitHub.
+
+**[Open the live app](https://vlotnl.velat-isik.workers.dev/)**
+
 ### [Ingolstadt Mobility Intelligence](https://github.com/vxx2207/ingolstadt-mobility-intelligence)
 
 Open-data mobility analytics with a DuckDB star schema, rolling-origin demand
